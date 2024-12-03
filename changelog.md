@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/ehmpathy/uni-phone/compare/v1.0.1...v1.1.0) (2024-12-03)
+
+
+### Features
+
+* **cast:** cast to phone in human words ([9f2eaea](https://github.com/ehmpathy/uni-phone/commit/9f2eaea0852bc51eee230387aeb5d6b045d3db69))
+
 ## [1.0.1](https://github.com/ehmpathy/uni-phone/compare/v1.0.0...v1.0.1) (2024-12-03)
 
 
