@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/ehmpathy/uni-phone/compare/v1.0.0...v1.0.1) (2024-12-03)
+
+
+### Bug Fixes
+
+* **check:** extend isUniPhoneNumber withAssure ([47f530b](https://github.com/ehmpathy/uni-phone/commit/47f530b76b2c56066895b8162cbcfb608dddf722))
+
 ## 1.0.0 (2024-11-29)
 
 
