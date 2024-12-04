@@ -4,3 +4,4 @@ export * from './asUniPhoneNumber';
 export * from './isPhoneNumber';
 export * from './UniPhone';
 export * from './asUniPhoneInHumanWords';
+export * from './asPartialPhoneInHumanWords';
