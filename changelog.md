@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/ehmpathy/uni-phone/compare/v1.1.1...v1.2.0) (2024-12-04)
+
+
+### Features
+
+* **cast:** expose cast asPartialPhoneInHumanWords ([f1efe3d](https://github.com/ehmpathy/uni-phone/commit/f1efe3d79508aeaf9a14e643f928e5f67eae868c))
+
 ## [1.1.1](https://github.com/ehmpathy/uni-phone/compare/v1.1.0...v1.1.1) (2024-12-03)
 
 
