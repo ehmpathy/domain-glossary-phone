@@ -12,7 +12,7 @@ export const asUniPhoneInHumanWords = (input: UniPhone): string => {
 
   if (!match) {
     throw new Error(
-      'Invalid UniPhone format. Expected format: +<country-code><10-digit-phone>',
+      'Invalid Phone format. Expected format: +<country-code><10-digit-phone>',
     );
   }
 

@@ -1,19 +1,15 @@
 {
-  "name": "uni-phone",
+  "name": "domain-glossary-phone",
   "author": "ehmpathy",
-  "description": "a glossary of universally intuitive time, date, and duration domain literals",
+  "description": "A glossary of intuitive, universally unambiguous phone definitions and useful procedures.",
   "version": "1.2.0",
-  "repository": "ehmpathy/uni-phone",
-  "homepage": "https://github.com/ehmpathy/uni-phone",
+  "repository": "ehmpathy/domain-glossary-phone",
+  "homepage": "https://github.com/ehmpathy/domain-glossary-phone",
   "keywords": [
-    "time",
-    "date",
-    "datetime",
-    "UniDate",
-    "UniDateTime",
-    "UniDuration"
+    "phone",
+    "phone number"
   ],
-  "bugs": "https://github.com/ehmpathy/uni-phone/issues",
+  "bugs": "https://github.com/ehmpathy/domain-glossary-phone/issues",
   "license": "MIT",
   "main": "dist/index.js",
   "engines": {

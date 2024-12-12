@@ -10,7 +10,7 @@ export const asUniPhoneNumber = (input: string): UniPhoneNumber => {
   const { phoneNumber: normalizedPhoneNumber } = phone(input);
   if (!normalizedPhoneNumber)
     throw new UnexpectedCodePathError(
-      'input was not a valid phone number. can not be cast to uni-phone-number',
+      'input was not a valid phone number. can not be cast to domain-glossary-phone-number',
       { input },
     );
   return normalizedPhoneNumber as UniPhoneNumber;
