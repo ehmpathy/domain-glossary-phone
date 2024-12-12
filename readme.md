@@ -8,13 +8,13 @@ A glossary of intuitive, universally unambiguous phone definitions and useful pr
 # purpose
 
 declare a universally unambiguous serialization format for phones
-- `PhoneNumber` = [E.164](https://en.wikipedia.org/wiki/E.164)
-- `Phone` = `{ number: PhoneNumber }`
+- `UniPhoneNumber` = [E.164](https://en.wikipedia.org/wiki/E.164)
+- `UniPhone` = `{ number: UniPhoneNumber }`
 
 usecases
-- clarify the format a string should be in (`const phoneNumber: PhoneNumber = '+13231110101'`)
-- cast date to universal format (`const phoneNumber: PhoneNumber = toPhoneNumber('(323) 111-0101')`)
-- narrow type of strings with runtime validation (`if (!isPhoneNumber(input)) throw new Error('wrong format')`)
+- clarify the format a string should be in (`const phoneNumber: UniPhoneNumber = '+13231110101'`)
+- cast date to universal format (`const phoneNumber: UniPhoneNumber = asUniPhoneNumber('(323) 111-0101')`)
+- narrow type of strings with runtime validation (`if (!isUniPhoneNumber(input)) throw new Error('wrong format')`)
 
 
 # install
@@ -30,21 +30,21 @@ npm install domain-glossary-phone
 ### declare that a phone or phone.number must be in the universal format
 
 ```ts
-const phone: Phone;
-const phoneNumber: PhoneNumber;
+const phone: UniPhone;
+const phoneNumber: UniPhoneNumber;
 ```
 
 
-### assure that a phone number is in the universal phormat
+### assure that a phone number is in the universal format
 
 ```ts
-const phone: Phone = { number: isPhoneNumber.assure('+13231110101') }
+const phone: UniPhone = { number: isUniPhoneNumber.assure('+13231110101') }
 ```
 
 
 ### cast a phone number into the universal format
 
 ```ts
-const phone: Phone = { number: asPhoneNumber('(323) 111-0101') }
+const phone: UniPhone = { number: asUniPhoneNumber('(323) 111-0101') }
 ```
 
