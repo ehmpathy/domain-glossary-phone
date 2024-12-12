@@ -1,6 +1,13 @@
 # Changelog
 
 <<<<<<< Updated upstream
+## [1.3.1](https://github.com/ehmpathy/domain-glossary-phone/compare/v1.3.0...v1.3.1) (2024-12-12)
+
+
+### Bug Fixes
+
+* **doc:** update readme example terms ([8833c03](https://github.com/ehmpathy/domain-glossary-phone/commit/8833c03540a091f19a5d1088f8a3a903aa304a20))
+
 ## [1.3.0](https://github.com/ehmpathy/domain-glossary-phone/compare/v1.2.0...v1.3.0) (2024-12-12)
 
 
