@@ -1,6 +1,13 @@
 # Changelog
 
 <<<<<<< Updated upstream
+## [1.3.0](https://github.com/ehmpathy/domain-glossary-phone/compare/v1.2.0...v1.3.0) (2024-12-12)
+
+
+### Features
+
+* **name:** bump name to domain-glossary namespace ([20f6009](https://github.com/ehmpathy/domain-glossary-phone/commit/20f6009a7cbd5986b3f1d1347086b1f7917404a3))
+
 ## [1.2.0](https://github.com/ehmpathy/uni-phone/compare/v1.1.1...v1.2.0) (2024-12-04)
 
 
