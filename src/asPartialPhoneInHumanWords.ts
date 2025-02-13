@@ -17,7 +17,7 @@ export const asPartialPhoneInHumanWords = (input: {
   // create formatted output
   return [
     numberSanitized.slice(0, 3) ? `(${numberSanitized.slice(0, 3)}` : '',
-    numberSanitized.slice(3, 6) ? `${numberSanitized.slice(3, 6)}` : '',
+    numberSanitized.slice(3, 6) ? `) ${numberSanitized.slice(3, 6)}` : '',
     numberSanitized.slice(6, 10) ? `-${numberSanitized.slice(6, 10)}` : '',
   ]
     .join('')
