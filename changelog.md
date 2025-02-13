@@ -1,6 +1,13 @@
 # Changelog
 
 <<<<<<< Updated upstream
+## [1.4.0](https://github.com/ehmpathy/domain-glossary-phone/compare/v1.3.1...v1.4.0) (2025-02-13)
+
+
+### Features
+
+* **href:** support cast phone to href ([c0c3dca](https://github.com/ehmpathy/domain-glossary-phone/commit/c0c3dca0c62e1f4e507f32abc5133dda07fd143f))
+
 ## [1.3.1](https://github.com/ehmpathy/domain-glossary-phone/compare/v1.3.0...v1.3.1) (2024-12-12)
 
 
