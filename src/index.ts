@@ -5,3 +5,4 @@ export * from './isUniPhoneNumber';
 export * from './UniPhone';
 export * from './asUniPhoneInHumanWords';
 export * from './asPartialPhoneInHumanWords';
+export * from './asUniPhoneInHref';
