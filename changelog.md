@@ -1,6 +1,13 @@
 # Changelog
 
 <<<<<<< Updated upstream
+## [1.4.1](https://github.com/ehmpathy/domain-glossary-phone/compare/v1.4.0...v1.4.1) (2025-02-13)
+
+
+### Bug Fixes
+
+* **cast:** correct partial phones outcome ([b2d947c](https://github.com/ehmpathy/domain-glossary-phone/commit/b2d947c0d5a717233531e6ef9a486879b6c4ce92))
+
 ## [1.4.0](https://github.com/ehmpathy/domain-glossary-phone/compare/v1.3.1...v1.4.0) (2025-02-13)
 
 
