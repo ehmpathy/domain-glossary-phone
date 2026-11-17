@@ -1,6 +1,6 @@
 import { DomainLiteral } from 'domain-objects';
 
-import { UniPhoneNumber } from './UniPhoneNumber';
+import type { UniPhoneNumber } from './UniPhoneNumber';
 
 /**
  * .what = a universal phone declaration
