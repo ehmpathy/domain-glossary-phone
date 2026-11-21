@@ -28,4 +28,4 @@ the done-gate commit after the 3.4 approval, on pr #14.
 
 ## verdict
 
-open — the director's call.
+ruled by the director: the six runtime files stay out of the commit, with no hand stage. they record this box's goal state, and the timestamp hook already refuses them. the pr body names each and why.
