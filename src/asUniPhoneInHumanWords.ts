@@ -1,4 +1,4 @@
-import { UniPhone } from './UniPhone';
+import type { UniPhone } from './UniPhone';
 
 /**
  * .what = casts a uni phone into human words

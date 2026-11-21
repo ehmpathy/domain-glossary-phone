@@ -1,4 +1,4 @@
-import { UniPhone } from './UniPhone';
+import type { UniPhone } from './UniPhone';
 
 export const asUniPhoneInHref = (
   { number }: UniPhone,

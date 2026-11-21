@@ -12,7 +12,7 @@ export const asPartialPhoneInHumanWords = (input: {
   number: string;
 }): string => {
   // remove all non alphas
-  const numberSanitized = input.number.replace(/[^0-9\*]/g, '');
+  const numberSanitized = input.number.replace(/[^0-9*]/g, '');
 
   // create formatted output
   return [

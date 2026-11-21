@@ -1,7 +1,7 @@
 import { withAssure } from 'type-fns';
 
-import { UniPhoneNumber } from './UniPhoneNumber';
 import { asUniPhoneNumber } from './asUniPhoneNumber';
+import type { UniPhoneNumber } from './UniPhoneNumber';
 
 /**
  * checks whether a string is a universally formatted phone number
