@@ -8,7 +8,7 @@
 
 ## taken, and why
 
-all seven stay out; the commit carries `pr.gate.watch.sh` and this record.
+all seven stay out; the commit carries this record only.
 
 - the six are the achiever's live state, the same class as the asks log, and no route commit has tracked any of them
 - `goal.guard` forbids a driver command that names the path, so the driver cannot stage them by a paved move
