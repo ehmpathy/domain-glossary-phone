@@ -1,7 +1,7 @@
-import { UnexpectedCodePathError } from '@ehmpathy/error-fns';
+import { UnexpectedCodePathError } from 'helpful-errors';
 import { phone } from 'phone';
 
-import { UniPhoneNumber } from './UniPhoneNumber';
+import type { UniPhoneNumber } from './UniPhoneNumber';
 
 /**
  * casts a phone number into the universal format, E.164

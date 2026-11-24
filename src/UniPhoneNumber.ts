@@ -1,4 +1,4 @@
-import { AsOfGlossary } from 'domain-glossaries';
+import type { AsOfGlossary } from 'domain-glossaries';
 
 /**
  * a phone number in the universal E.164 format
